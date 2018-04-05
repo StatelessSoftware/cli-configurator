@@ -4,7 +4,7 @@ Create config files and parse
 ## Installation
 
 ```
-npm i -g StatelessSoftware/cli-configurator
+npm i StatelessSoftware/cli-configurator
 ```
 
 ## Usage

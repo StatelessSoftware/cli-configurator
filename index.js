@@ -112,7 +112,7 @@ module.exports = function(name, env = "default", folder = "config") {
         }
         else {
 
-            payload = {};
+            payload = false;
 
         }
 
